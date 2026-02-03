@@ -71,3 +71,13 @@ After having visited the installation from 2 years ago, which is based on the Jo
 With heaps and heaps of wires, sorting them on the basis of color alone isn't feasible by itself.
 Thereof, wirelabeling and cable management is a crucial aspect of built, which allows for debugging when time comes.
 
+### Mechanism proposed :
+
+![unnamed](https://github.com/user-attachments/assets/324c2efb-a9b3-4038-ab4a-9b370e801ede)
+
+For the mechanism, I believe Wheels moving, and the car actually vibrating would be crucial compoents.
+Sound and light follow as secondary elements. For the wheels , as shown in the drawing, wheels are attached to cogs and these cogs are driven by a centeral / bigger cog, which is driven by a single motor.
+The second motor is used to drive half-weighted plated to add vibration as the car revs.
+
+
+
