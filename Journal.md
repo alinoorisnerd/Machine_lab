@@ -3,11 +3,18 @@
 ## Thursday - 29 Jan
 For this assignment, we are required to control the speed of the 'sweep motion of the Servo, alongside triggering its movement using the push / tactile switch.
 
-### Here is the circuit layout:
+### Here is the circuit drawn:
+
+![IMG_3568](https://github.com/user-attachments/assets/6a4712ec-af45-40b7-9444-818c157fa4ed)
+
 
 
 ### Image of the circuit itself :
 
+![IMG_3567](https://github.com/user-attachments/assets/d91ff849-4d1a-4c6e-ad7b-a08a50492652)
+
+
+### Code :
 
 ```
 #include <Servo.h>
@@ -49,3 +56,11 @@ void loop() {
 ```
 ### Issues faced :
 None. Having taken intro to IM and other courses, this was a fairly simple task.
+
+
+## Thursday - 3 Feb
+
+![IMG_3569](https://github.com/user-attachments/assets/783cfced-9542-4092-91b9-5e9b45eb177a)
+
+
+For me I prefer to work on the Famous need for Speed Game . To me, the game is a core memory growing up and feels appropriate given the non-violent nature. At the sametime, the game-itself is based on racing and 
