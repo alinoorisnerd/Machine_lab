@@ -63,4 +63,11 @@ None. Having taken intro to IM and other courses, this was a fairly simple task.
 ![IMG_3569](https://github.com/user-attachments/assets/783cfced-9542-4092-91b9-5e9b45eb177a)
 
 
-For me I prefer to work on the Famous need for Speed Game . To me, the game is a core memory growing up and feels appropriate given the non-violent nature. At the sametime, the game-itself is based on racing and 
+For me I prefer to work on the Famous need for Speed Game . To me, the game is a core memory growing up and feels appropriate given the non-violent nature of the game. At the sametime, the game-itself is based on racing. 
+
+<img width="512" height="512" alt="unnamed" src="https://github.com/user-attachments/assets/790d62b1-a2e9-4ae4-8242-1223d7f761bf" />
+
+After having visited the installation from 2 years ago, which is based on the Joyland theme, I did happen to observe some faulty components. On the front of the frame sits the Mechanism on disply, and on the back of the frame sits the power management and wiring. Wires with tapped labels attached is something I am inspired by.
+With heaps and heaps of wires, sorting them on the basis of color alone isn't feasible by itself.
+Thereof, wirelabeling and cable management is a crucial aspect of built, which allows for debugging when time comes.
+
