@@ -85,7 +85,7 @@ The second motor is used to drive half-weighted plated to add vibration as the c
 For this particular assignment, we were tasked with finishing the in-class exercise. Even though I didn't attend the class taught on 5th of February, later durin the day I went through the lecture notes and finished the tasked assigned.
 I wasn't handed the adapter or any of the materials (e.g L298 H motor driver). I sifted through stuff in the IM lab, behind the whiteboard on the rack, and completed the ration list.
 
-![Uploading image.png…]()
+<img width="494" height="655" alt="image" src="https://github.com/user-attachments/assets/c9177b96-f300-4177-a4cd-2dce724551c8" />
 
 
 Once done, I stripped the wires from 12 V 60 W power adapter, and solder them to female Coaxial cable. For safety purpose, after soldering the connection, I tapped the ground and hot wire.
@@ -134,6 +134,13 @@ void loop() {
 
 ```
 
-The motor spins as intended! However, now the next stage was to prototype the proposed mechanism in the previous entry.
+The motor spins as intended!
+<img width="878" height="499" alt="image" src="https://github.com/user-attachments/assets/ccdbdb6e-ffb5-4bf0-ab69-cb08a56c9035" />
+
+
+However, now the next stage was to prototype the proposed mechanism in the previous entry.
 Since my concept is to drive the wheels using cogs and main motor, using a toy wheel and the hub attached to motor, I created the rotary concept where the wooden sticks tapped ontop acted as the 'teecth' of the code. As a result when the motor and the hub spun, it spun the wheel as well!
+
+<img width="487" height="647" alt="image" src="https://github.com/user-attachments/assets/0bc132af-3b51-4e16-bf8e-4da4c16c0519" />
+
 
