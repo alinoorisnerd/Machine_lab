@@ -58,7 +58,7 @@ void loop() {
 None. Having taken intro to IM and other courses, this was a fairly simple task.
 
 
-## Thursday - 3 Feb
+## Thursday - 3 Feb (Extension granted to Class till 5th of Feb)
 
 ![IMG_3569](https://github.com/user-attachments/assets/783cfced-9542-4092-91b9-5e9b45eb177a)
 
@@ -80,4 +80,52 @@ Sound and light follow as secondary elements. For the wheels , as shown in the d
 The second motor is used to drive half-weighted plated to add vibration as the car revs.
 
 
+## Tuesday - 10 Feb :
+
+For this particular assignment, we were tasked with finishing the in-class exercise. Even though I didn't attend the class taught on 5th of February, later durin the day I went through the lecture notes and finished the tasked assigned.
+I wasn't handed the adapter or any of the materials (e.g L298 H motor driver). I sifted through stuff in the IM lab, behind the whiteboard on the rack, and completed the ration list. Once done, I stripped the wires from 12 V 60 W power adapter, and solder them to female Coaxial cable. For safety purpose, after soldering the connection, I tapped the ground and hot wire.
+
+After this, I inserted wires of male coaxial cable to 12 V and ground terminal on the L298H motor driver. ENA, In1, and IN2 pins were attached to the arduino. 
+
+ENA (Enable pin A) was attached to PWM pin 5 for altering motor speed.
+IN1 was connected to PMW pin 7, and IN2 was connected to pin 6 for LOW.
+Last but not the least, the motor's positive and ground terminal were connected to the Output 1, and output 2 of the H-bridge driver, respectively.
+
+Following code was written inside Arduino to test drive the 12 V 650  RPM motor :
+
+```
+// Pin definitions
+const int enA = 5;  // PWM pin
+const int in1 = 6;
+const int in2 = 7;
+
+void setup() {
+  // Set pins as outputs
+  pinMode(enA, OUTPUT);
+  pinMode(in1, OUTPUT);
+  pinMode(in2, OUTPUT);
+}
+void loop() {
+  // Rotate motor forward slowly
+  digitalWrite(in1, HIGH);
+  digitalWrite(in2, LOW);
+
+  for (int speed = 0; speed <= 255; speed++) {
+    analogWrite(enA, speed);
+    delay(20); 
+  }
+  analogWrite(enA, 255);
+  delay(2000);
+
+  for (int speed = 255; speed >= 0; speed--) {
+    analogWrite(enA, speed);
+    delay(20);
+  }
+  delay(1000);
+}
+
+```
+
+The motor spins as intended! However, now the next stage was to prototype the proposed mechanism in the previous entry.
+Since my concept is to drive the wheels using cogs and main motor, using a toy wheel and the hub attached to motor, I created the rotary concept where the wooden sticks tapped ontop acted as the 'teecth' of the code. As a result when the motor and the hub spun, it spun the wheel as well!
 
