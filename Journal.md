@@ -83,7 +83,15 @@ The second motor is used to drive half-weighted plated to add vibration as the c
 ## Tuesday - 10 Feb :
 
 For this particular assignment, we were tasked with finishing the in-class exercise. Even though I didn't attend the class taught on 5th of February, later durin the day I went through the lecture notes and finished the tasked assigned.
-I wasn't handed the adapter or any of the materials (e.g L298 H motor driver). I sifted through stuff in the IM lab, behind the whiteboard on the rack, and completed the ration list. Once done, I stripped the wires from 12 V 60 W power adapter, and solder them to female Coaxial cable. For safety purpose, after soldering the connection, I tapped the ground and hot wire.
+I wasn't handed the adapter or any of the materials (e.g L298 H motor driver). I sifted through stuff in the IM lab, behind the whiteboard on the rack, and completed the ration list.
+
+![Uploading image.png…]()
+
+
+Once done, I stripped the wires from 12 V 60 W power adapter, and solder them to female Coaxial cable. For safety purpose, after soldering the connection, I tapped the ground and hot wire.
+
+<img width="492" height="662" alt="image" src="https://github.com/user-attachments/assets/445e29a8-ead3-43b9-96da-412247109f2f" />
+
 
 After this, I inserted wires of male coaxial cable to 12 V and ground terminal on the L298H motor driver. ENA, In1, and IN2 pins were attached to the arduino. 
 
