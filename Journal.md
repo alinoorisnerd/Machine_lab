@@ -144,3 +144,18 @@ Since my concept is to drive the wheels using cogs and main motor, using a toy w
 <img width="487" height="647" alt="image" src="https://github.com/user-attachments/assets/0bc132af-3b51-4e16-bf8e-4da4c16c0519" />
 
 
+### Thu - 12 Feb :
+
+## Prototype refinement - Bevel Gear CAD design  
+
+To refine and better present my idea, I opened CAD software, and looked into Bevel Gear system. Bevel gear mechanism aligns with my rough sketch, proposed previously.
+Base gear driving two other gears is what I want to achieve. Here is the basic implementation of Bevel gear system in CAD:
+
+<img width="1311" height="680" alt="image" src="https://github.com/user-attachments/assets/00ec3092-6645-44be-8ac0-9c4b76d02239" />
+
+
+<img width="732" height="592" alt="image" src="https://github.com/user-attachments/assets/0de6bed5-8b81-4366-a00a-5545afb450a2" />
+
+
+
+
