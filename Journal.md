@@ -159,7 +159,10 @@ Base gear driving two other gears is what I want to achieve. Here is the basic i
 In total, two pairs will act as two wheel for the car system, however; I am confused between opting for Satellite bevel system or a worm gear.
 With worm gear, multiple Cogs may put stress on a single base gear, therfore will ask Professor Shiloh for his suggestions.
 
-![Uploading image.png…]()
+<img width="146" height="143" alt="image" src="https://github.com/user-attachments/assets/600d8c07-a95c-4f42-a6be-b5d460ae3b41" />
+
+
+
 
 
 
