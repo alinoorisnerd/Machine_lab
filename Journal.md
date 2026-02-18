@@ -161,7 +161,7 @@ With worm gear, multiple Cogs may put stress on a single base gear, therfore wil
 
 <img width="146" height="143" alt="image" src="https://github.com/user-attachments/assets/600d8c07-a95c-4f42-a6be-b5d460ae3b41" />
 
-### Tue - 18 Feb :
+# Tue - 18 Feb :
 
 ## Building Da Thing!
 
@@ -181,7 +181,7 @@ Here is the design we made :
 
 <img width="668" height="1208" alt="image" src="https://github.com/user-attachments/assets/5b166bde-3fa4-4b92-ad1d-4e85aca15365" />
 
-# Due process :
+## Due process :
 
 While printing, we realized that the piston heads, crankshaft, and other mechanism when scalled down didn't have quite the resolution. Infact, the bumpy edges would mess up the rotatary movement. After 3 prints, the fourth one came out right. However, imporantly, we did spend a lot of time designing the engine so that it can fit the hood of the car of a particular demension. The time after was dedicated to print and polishing.
 
@@ -189,7 +189,7 @@ While printing, we realized that the piston heads, crankshaft, and other mechani
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/77d982ae-c02f-4dc9-9e4b-ec49720e168e" />
 
-# Attaching motor and conclusion:
+## Attaching motor and conclusion:
 
 One thing was realized after attaching the motor was that the mechanism required good anchor points on the crankshaft's ends. However, since we were unable to print the engine cover, the thing dangeled around.  Moreover, due to rough surface, the pistons would pop off. 
 Our conclusion was to manufacture the engine out of somethign metallic, and to use WD-40. Infact this class should have a lecture of the greatness of WD-40!
