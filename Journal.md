@@ -1,4 +1,4 @@
-# **Machine Lab - Ali's Journal**
+<img width="395" height="358" alt="image" src="https://github.com/user-attachments/assets/c6062b44-e382-453e-bc4f-f8059f97f4f7" /><img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4cec581e-f22d-4f5a-b0ff-8947f5501e86" /># **Machine Lab - Ali's Journal**
 
 ## Thursday - 29 Jan
 For this assignment, we are required to control the speed of the 'sweep motion of the Servo, alongside triggering its movement using the push / tactile switch.
@@ -160,6 +160,47 @@ In total, two pairs will act as two wheel for the car system, however; I am conf
 With worm gear, multiple Cogs may put stress on a single base gear, therfore will ask Professor Shiloh for his suggestions.
 
 <img width="146" height="143" alt="image" src="https://github.com/user-attachments/assets/600d8c07-a95c-4f42-a6be-b5d460ae3b41" />
+
+### Tue - 18 Feb :
+
+## Building Da Thing!
+
+For this assignment, we were tasked with building the mechanised version of our sketches. 
+Me and my team identified three main components which were : the wheels, the moving road, and the engine. Since the engine happens to be the most time consuming, we decided to get started with it at the earliest.
+
+We proposed multipe engnie ideas. One was to follow the tutorial online to origami a miniature paper version of V8 engine. The following youtube tutorial was a potential inspiration:
+
+https://www.youtube.com/watch?v=13_4r95FAMk&t=328s&pp=ygUCdjg%3D
+
+The other one being a 3D crank shaft based print.
+Being made out paper makes the structure vulnerable to damage, especially due to the moving parts. Therefore, we opted for a 3D print, with the assumption that It will come out awesome!
+
+Here is the design we made :
+
+<img width="1216" height="980" alt="image" src="https://github.com/user-attachments/assets/d6bb7837-d7ac-404a-9fc0-e9d705895af0" />
+
+<img width="668" height="1208" alt="image" src="https://github.com/user-attachments/assets/5b166bde-3fa4-4b92-ad1d-4e85aca15365" />
+
+# Due process :
+
+While printing, we realized that the piston heads, crankshaft, and other mechanism when scalled down didn't have quite the resolution. Infact, the bumpy edges would mess up the rotatary movement. After 3 prints, the fourth one came out right. However, imporantly, we did spend a lot of time designing the engine so that it can fit the hood of the car of a particular demension. The time after was dedicated to print and polishing.
+
+<img width="367" height="477" alt="image" src="https://github.com/user-attachments/assets/4fb16a88-b154-4e8b-86dc-fbb379bfce7d" />
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/77d982ae-c02f-4dc9-9e4b-ec49720e168e" />
+
+# Attaching motor and conclusion:
+
+One thing was realized after attaching the motor was that the mechanism required good anchor points on the crankshaft's ends. However, since we were unable to print the engine cover, the thing dangeled around.  Moreover, due to rough surface, the pistons would pop off. 
+Our conclusion was to manufacture the engine out of somethign metallic, and to use WD-40. Infact this class should have a lecture of the greatness of WD-40!
+
+It was learning process nonetheless, and most importantly, we made a huge progress. From here onwards, it will be easy for us to continue with the engine and having realized the defects and shortcoming, for the midterm, we will make it work!!!!
+
+
+
+
+
+
 
 
 
