@@ -1,4 +1,4 @@
-<img width="395" height="358" alt="image" src="https://github.com/user-attachments/assets/c6062b44-e382-453e-bc4f-f8059f97f4f7" /><img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4cec581e-f22d-4f5a-b0ff-8947f5501e86" /># **Machine Lab - Ali's Journal**
+# **Machine Lab - Ali's Journal**
 
 ## Thursday - 29 Jan
 For this assignment, we are required to control the speed of the 'sweep motion of the Servo, alongside triggering its movement using the push / tactile switch.
@@ -185,7 +185,7 @@ Here is the design we made :
 
 While printing, we realized that the piston heads, crankshaft, and other mechanism when scalled down didn't have quite the resolution. Infact, the bumpy edges would mess up the rotatary movement. After 3 prints, the fourth one came out right. However, imporantly, we did spend a lot of time designing the engine so that it can fit the hood of the car of a particular demension. The time after was dedicated to print and polishing.
 
-<img width="552" height="535" alt="image" src="https://github.com/user-attachments/assets/a245885f-7935-42c7-860e-428ff6c7e91d" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c6062b44-e382-453e-bc4f-f8059f97f4f7" /><img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4cec581e-f22d-4f5a-b0ff-8947f5501e86" />
 
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/77d982ae-c02f-4dc9-9e4b-ec49720e168e" />
