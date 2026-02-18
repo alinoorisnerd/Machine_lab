@@ -185,7 +185,8 @@ Here is the design we made :
 
 While printing, we realized that the piston heads, crankshaft, and other mechanism when scalled down didn't have quite the resolution. Infact, the bumpy edges would mess up the rotatary movement. After 3 prints, the fourth one came out right. However, imporantly, we did spend a lot of time designing the engine so that it can fit the hood of the car of a particular demension. The time after was dedicated to print and polishing.
 
-<img width="367" height="477" alt="image" src="https://github.com/user-attachments/assets/4fb16a88-b154-4e8b-86dc-fbb379bfce7d" />
+<img width="552" height="535" alt="image" src="https://github.com/user-attachments/assets/a245885f-7935-42c7-860e-428ff6c7e91d" />
+
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/77d982ae-c02f-4dc9-9e4b-ec49720e168e" />
 
