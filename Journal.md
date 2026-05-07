@@ -195,6 +195,12 @@ Our conclusion was to manufacture the engine out of somethign metallic, and to u
 
 It was learning process nonetheless, and most importantly, we made a huge progress. From here onwards, it will be easy for us to continue with the engine and having realized the defects and shortcoming, for the midterm, we will make it work!!!!
 
+# Tue - 03 March :
+# Fri - 08 April :
+# Fri - 15 April :
+# THU - 21 April :
+# Fri - 29 April :
+# TUE - 05 May :
 
 
 
