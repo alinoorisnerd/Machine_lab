@@ -226,13 +226,22 @@ Once done, I drilled some holes and added mpunting  stand - for the V8 turned W4
 Lastly I added straws to hold the piston (M3) screws diagonally to mimic the engine cylinder.
 
 
+<img width="5712" height="4284" alt="IMG_3817" src="https://github.com/user-attachments/assets/3265f3ab-5440-4e03-96be-85735b903307" />
 
 
 
 
 
 # Fri - 08 April :
+
+It feels weird to be at home and yet still having to work on an IM project. Maybe I was a bit too attached to the I.M Lab!
+Nonetheless, the meeting with processor went on to be 25 minutes long. Stuck in rush hour with poor reception thanks to the thunder storm -  we went over the basic expectations and I put forth the proposal of building a face deteciton based smart locking / unlocking mechanism for main door. It would concist of arduino ESP Cam module, some wires, 12 V motor, and some styrofoam to host the circuitry and keep it intact with the frame of the door.
+
 # Fri - 15 April :
+Having realized that tolerances between the door and the floor or the wooden frame would end up 'squishing' or 'breaking' the wires, I realized the limmitations. More or less, I also realized that a much more 'mechanized' endeavour would allign closely with the object of the class, therefore I opted for cardboard based automata design - which will honour the historical clocktower monument of my city. This will be powered by a rubber belt, and cam shafts translaing vertical movements to horizontal and back to vertical. The idea was to simply spin the clocktower, trees, and the birds suspended in air with the help of copper wire. The vertical movement would help the birds flap ther wings and turn the clock hands.
+The following sketch sort of realizes the concept : 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/69adaea4-8704-4337-b7bd-cd780d47623b" />
+
 # THU - 21 April :
 # Fri - 29 April :
 # TUE - 05 May :
