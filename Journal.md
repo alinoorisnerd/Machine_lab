@@ -238,11 +238,18 @@ It feels weird to be at home and yet still having to work on an IM project. Mayb
 Nonetheless, the meeting with processor went on to be 25 minutes long. Stuck in rush hour with poor reception thanks to the thunder storm -  we went over the basic expectations and I put forth the proposal of building a face deteciton based smart locking / unlocking mechanism for main door. It would concist of arduino ESP Cam module, some wires, 12 V motor, and some styrofoam to host the circuitry and keep it intact with the frame of the door.
 
 # Fri - 15 April :
-Having realized that tolerances between the door and the floor or the wooden frame would end up 'squishing' or 'breaking' the wires, I realized the limmitations. More or less, I also realized that a much more 'mechanized' endeavour would allign closely with the object of the class, therefore I opted for cardboard based automata design - which will honour the historical clocktower monument of my city. This will be powered by a rubber belt, and cam shafts translaing vertical movements to horizontal and back to vertical. The idea was to simply spin the clocktower, trees, and the birds suspended in air with the help of copper wire. The vertical movement would help the birds flap ther wings and turn the clock hands.
+Having realized that tolerances between the door and the floor or the wooden frame would end up 'squishing' or 'breaking' the wires, I realized the limmitations. More or less, I also realized that a much more 'mechanized' endeavour would allign closely with the object of the class, therefore I opted for cardboard based automata design - which will honour the historical clocktower monument of my city. This will be powered by a rubber belt, and cam shafts translaing vertical movements to horizontal and back to vertical. The idea was to simply aimate the clocktower, trees, and the birds suspended in air with the help of copper wire. The vertical movement would help the birds flap ther wings and turn the clock hands.
 The following sketch sort of realizes the concept : 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/69adaea4-8704-4337-b7bd-cd780d47623b" />
 
 # THU - 21 April :
+## Problems - Problems - Problems :
+The one main problem I faced repeatedly was the bending of cardboard and no proper contact point between the cam and cardboard piece responsible for moving the birds. Aligning it and make it firm and rigid on the skewer was a challenge. Over time the cardboard would soften up and would lose its structure.
+
+<img width="192" height="144" alt="image" src="https://github.com/user-attachments/assets/313c63a8-4e76-4d1e-aadf-3ad70cfc67ab" />
+
+This left me a bit frustrated, as I spent most of my time re-arranging cardbord on a skewer. Before I could finish, I decided to reconsider the project. It wasn't that I kept on quitting, but rather I stared to find the project boring, and boring projects are not worthwile because it doesn't align with ones goal. I wanted to make something firm, compact, and mechanically flawless. But soon af]
+
 # Fri - 29 April :
 # TUE - 05 May :
 
