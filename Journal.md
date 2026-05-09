@@ -196,6 +196,41 @@ Our conclusion was to manufacture the engine out of somethign metallic, and to u
 It was learning process nonetheless, and most importantly, we made a huge progress. From here onwards, it will be easy for us to continue with the engine and having realized the defects and shortcoming, for the midterm, we will make it work!!!!
 
 # Tue - 03 March :
+## Main Mechanism for the project
+The main mechanism that we identified for the project included the engine, the rotating symmetrical road and attached wheelbase (to give impression of the car doing a doughnut), and the car model. I decided to go for the engine since it was something that I wanted to build! Yes the war just stared and amidst skirmishes I find myself sticking around I.M Lab. Perhaps the pursuit of building a V8 did really make me care less about this frenzy situation.
+
+I started off with the basic design principle. Since the other workshops and areas were closed, I had to make the best out of whatever I could get my hands on. I therefore opted for gold mine situated right next to professor Shiloh's office. Having some experience with the 3D printed crankshaft and pistons, I knew the somewhat mechanism and how to translate it from PLA to a much more metallic one. I drew basic shape on my notebook provided by professor, and with to and fro between the IM lab and the depot upstairs, I finally found the pulleys and bearing which would end up coming together just like my sketch :
+
+<img width="3024" height="4032" alt="IMG_3779" src="https://github.com/user-attachments/assets/afe79f67-75ea-484c-9d2b-b29344040798" />
+
+<img width="3024" height="4032" alt="IMG_3778" src="https://github.com/user-attachments/assets/2e82b0c0-7c70-48a7-9527-fa2634216333" />
+
+I stared with one linkage : 
+
+<img width="3024" height="4032" alt="IMG_3782" src="https://github.com/user-attachments/assets/6ec1bb2f-a244-4030-b8af-09950afca3c9" />
+
+<img width="4032" height="3024" alt="IMG_3780" src="https://github.com/user-attachments/assets/43a6acb1-4a93-46ed-a216-0380ae11a169" />
+
+Then I later progressed by adding more, and subsequent patterns saw the cranshaft take place. I added M3 screws to mimic piston and pisten heads. Initially the pulley would either jam up or would screw and come off. Therefore I added M3 bolts on both end of the pulley to give it enough space to spin but at the same time not move horizontally along the shaft. Folowing was the later progress :
+
+<img width="4284" height="5712" alt="IMG_3785" src="https://github.com/user-attachments/assets/88541f5a-0d2f-4b95-b93a-c0ca8c16f56a" />
+
+<img width="4284" height="5712" alt="IMG_3788" src="https://github.com/user-attachments/assets/88733a98-8928-4a86-b88e-8a2e5f5138f9" />
+
+<img width="4284" height="5712" alt="IMG_3791" src="https://github.com/user-attachments/assets/fd927215-f8ad-4319-b4a6-43a86f7a84cb" />
+
+Once done, I drilled some holes and added mpunting  stand - for the V8 turned W4 engine  -u sing L-brakets and wooden sheet.
+
+<img width="5712" height="4284" alt="IMG_3816" src="https://github.com/user-attachments/assets/cf793cec-d6b7-432b-a132-4e9e6060dd07" />
+
+Lastly I added straws to hold the piston (M3) screws diagonally to mimic the engine cylinder.
+
+
+
+
+
+
+
 # Fri - 08 April :
 # Fri - 15 April :
 # THU - 21 April :
