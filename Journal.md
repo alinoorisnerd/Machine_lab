@@ -276,7 +276,7 @@ The following is the final result achieved :
 
 
 # TUE - 05 May :
-I had the presentation on me but couldn't present due to Power cut few minutes before the class. The power has been going out now regularly at this same time - 15 minutes before the startin of the class. It presented me quite some difficulty as immense heat and lack of proper lighting makes work across all 5 classes pile up into a huge heap!
+I had the presentation on me but couldn't present due to power cut few minutes before the class. The power has been going out now regularly at this same time - 15 minutes before the beginning of the class. It presented me with  some difficulty as immense heat and lack of proper lighting slows me down and makes work across all 5 classes pile up into a huge heap!
 
 
 
