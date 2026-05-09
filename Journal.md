@@ -248,10 +248,35 @@ The one main problem I faced repeatedly was the bending of cardboard and no prop
 
 <img width="192" height="144" alt="image" src="https://github.com/user-attachments/assets/313c63a8-4e76-4d1e-aadf-3ad70cfc67ab" />
 
-This left me a bit frustrated, as I spent most of my time re-arranging cardbord on a skewer. Before I could finish, I decided to reconsider the project. It wasn't that I kept on quitting, but rather I stared to find the project boring, and boring projects are not worthwile because it doesn't align with ones goal. I wanted to make something firm, compact, and mechanically flawless. But soon af]
+This left me a bit frustrated, as I spent most of my time re-arranging cardbord on a skewer. Before I could finish, I decided to reconsider the project. It wasn't that I kept on quitting because I couldn't figure out the solution to the problem, but rather I stared to find the project being 'basic'. For me machine lab was about metals, motors, movement, mix of multimedia in a nutshell. However, cardboard automata wasn't just there yet.  I wanted to make something firm, compact, and mechanically flawless. So once again I started digging again. After thinking heaviliy, I realized I wanted something to move around, and something that moves around without any support!
 
 # Fri - 29 April :
+Once again, I embarked on a journey of finding a new project / inspiration. This was the third time. I still couldn't find anything, so I resorted to taking a quick break and watching cartoons to wind up my energy. Well the protagonist of the show had poster of Da Vinci bird on his bedroom wall, and I asked to myself what if ...
+I never officially constructed a Da Vinici bird like model, and after research I found the design of Ornithopter online. You can wind it up, and make it fly just like a real bird!
+Nothing could beat the excitement of constructing this particular project!
+
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/01ced45f-b56b-4c10-9c30-80aff753e266" />
+
+I went out of the store to buy popsicle sticks, rubber bands, paper clips, hair pins. I went through the tutorial but found the first roadblock immediately when the popsicle sticks would split as I would try punching a hole through them. Maybe the sticks were of not the best quality? I tried from sharpest to dullest tool, nothing worked.
+Moreover, the popsicles were a bit heavy. I doubt it would ever fly or even glide. I therefore took like weight straws, put them together, and got a basic structure working. 
+After meeting with professor Shiloh, he advised me on refining the linkages on the wing. I therefore made a small cut in the wings and passed another straw to construct a linkage. I introduced bends to help it better mimic the human arm :
+
+<img width="4032" height="3024" alt="IMG_4231" src="https://github.com/user-attachments/assets/70a72b1d-0df3-4a70-ba60-6a33679120d3" />
+
+The paper clips and pins kept on sliding out of the straws. I therefore made loops of tape at the end or inbetween to act like plugs. This ensured that the pin could rotate and not come off :
+
+<img width="4032" height="3024" alt="IMG_4232" src="https://github.com/user-attachments/assets/5dd38446-b831-45f9-a713-5d64f18c09ed" />
+
+Loop of rubber band were made and andchored with to paper clip. Single rubber not used since it would break and the rubber bands I got my hands on are not the best either. Every twist and turn would introduced wear and tear so I made loops between three rubber bands to replace using a single one!
+The following is the final result achieved :
+
+<img width="4032" height="3024" alt="IMG_4230" src="https://github.com/user-attachments/assets/a4aaa0cb-32e0-4440-8d42-9ada3210c7e2" />
+
+
+
+
 # TUE - 05 May :
+I had the presentation on me but couldn't present due to Power cut few minutes before the class. The power has been going out now regularly at this same time - 15 minutes before the startin of the class. It presented me quite some difficulty as immense heat and lack of proper lighting makes work across all 5 classes pile up into a huge heap!
 
 
 
